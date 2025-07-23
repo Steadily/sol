@@ -1,2 +1,2 @@
 # sol
-sol example
+sol example 
